@@ -1,2 +1,2 @@
 # Huanglei_iOS
-一个模仿iPhone桌面长按删除的Demo
+一个模仿iPhone桌面长按删除效果的Demo
